@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: #F2F2F2;
+    background-color: #e9f0f5;
 }
 
 .span {
@@ -50,7 +50,6 @@ body {
     font-weight: bolder;
     font-size: 19px;
     font-family: Myraid;
-
 }
 
 .timeline ul li div::before {
