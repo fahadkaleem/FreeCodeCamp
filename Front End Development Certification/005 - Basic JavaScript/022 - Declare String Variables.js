@@ -3,6 +3,6 @@ var firstName = "Alan";
 var lastName = "Turing";
 
 // Only change code below this line
-var myFirsyName = "Hello";
+var myFirstName = "Hello";
 var myLastName = "World";
 
