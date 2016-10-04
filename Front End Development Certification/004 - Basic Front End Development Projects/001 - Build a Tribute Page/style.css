@@ -1,5 +1,16 @@
+.header {
+    font-family: Myraid;
+}
+
+body {
+    background-color: #F2F2F2;
+}
+
+.span {
+    background-color: red;
+}
+
 .timeline ul {
-    background: #e9f0f5;
     padding: 50px 0;
 }
 
@@ -33,19 +44,20 @@
     background: #FFF;
 }
 
-.timeline ul li div date {
+.timeline ul li div p {
     text-align: center;
     color: #000;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 19px;
     font-family: Myraid;
-    display: block;
+
 }
 
 .timeline ul li div::before {
     content: '';
     position: absolute;
     bottom: 7px;
+    width: 0;
     width: 0;
     height: 0;
     border-style: solid;
