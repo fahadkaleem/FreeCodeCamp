@@ -12,4 +12,6 @@ This repository will have solutions for all the FreeCodeCamp questions
 
 ## Basic JavaScript
 
+## Object Oriented Functional Programming
+
 
