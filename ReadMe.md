@@ -14,4 +14,8 @@ This repository will have solutions for all the FreeCodeCamp questions
 
 ## Object Oriented Functional Programming
 
+## Basic Algorithm Scripting
+
+
+
 
