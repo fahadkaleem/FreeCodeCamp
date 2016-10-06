@@ -16,7 +16,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 
 ## Basic Algorithm Scripting
 
-## JSPN APIs and Ajax
+## JSON APIs and Ajax
 
 
 
