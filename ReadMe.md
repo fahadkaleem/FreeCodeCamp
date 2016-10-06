@@ -6,4 +6,6 @@ This repository will have solutions for all the FreeCodeCamp questions
 
 ## Responsive Design with Bootstrap
 
+## jQuery
+
 
