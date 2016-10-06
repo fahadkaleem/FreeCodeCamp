@@ -10,6 +10,6 @@ This repository will have solutions for all the FreeCodeCamp questions
 
 ## Basic Front End Development Projects
 
-
+## Basic JavaScript
 
 
