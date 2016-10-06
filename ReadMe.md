@@ -4,4 +4,6 @@ This repository will have solutions for all the FreeCodeCamp questions
 
 ## HTML5 and CSS
 
+## Responsive Design with Bootstrap
+
 
