@@ -2,8 +2,15 @@
     font-family: Myraid;
 }
 
-body {
+.body {
     background-color: #e9f0f5;
+}
+
+.header-image {
+    position: absolute;
+    max-width: 100%;
+    height: auto;
+    background-image: url("http://www.krw-intl.com/wp-content/uploads/2015/04/stevejobs1.jpg");
 }
 
 .span {
@@ -42,6 +49,7 @@ body {
     width: 400px;
     padding: 15px;
     background: #FFF;
+    box-shadow: 10px 10px 24px 0px rgba(143, 132, 143, 1);
 }
 
 .timeline ul li div p {
@@ -49,14 +57,14 @@ body {
     color: #000;
     font-weight: bolder;
     font-size: 19px;
-    font-family: Myraid;
+    font-family: sans-serif;
+    text-decoration: underline;
 }
 
 .timeline ul li div::before {
     content: '';
     position: absolute;
-    bottom: 7px;
-    width: 0;
+    bottom: 6px;
     width: 0;
     height: 0;
     border-style: solid;
@@ -69,7 +77,7 @@ body {
 .timeline ul li:nth-child(odd) div::before {
     left: -15px;
     border-width: 8px 16px 8px 0;
-    border-color: transparent #F45B69 transparent transparent;
+    border-color: transparent #FFF transparent transparent;
 }
 
 .timeline ul li:nth-child(even) div {
@@ -79,5 +87,5 @@ body {
 .timeline ul li:nth-child(even) div::before {
     right: -15px;
     border-width: 8px 0 8px 16px;
-    border-color: transparent transparent transparent #F45B69;
+    border-color: transparent transparent transparent #FFF;
 }
