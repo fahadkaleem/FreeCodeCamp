@@ -65,6 +65,37 @@ This repository will have solutions for all the FreeCodeCamp questions
 60. Use RGB to Mix Colors
 
 ## Responsive Design with Bootstrap
+1. Use Responsive Design with Bootstrap Fluid Containers Complete
+2. Make Images Mobile Responsive Complete
+3. Center Text with Bootstrap Complete
+4. Create a Bootstrap Button Complete
+5. Create a Block Element Bootstrap Button Complete
+6. Taste the Bootstrap Button Color Rainbow Complete
+7. Call out Optional Actions with Button Info Complete
+8. Warn your Users of a Dangerous Action Complete
+9. Use the Bootstrap Grid to Put Elements Side By Side Complete
+10. Ditch Custom CSS for Bootstrap Complete
+11. Use Spans for Inline Elements Complete
+12. Create a Custom Heading Complete
+13. Add Font Awesome Icons to our Buttons Complete
+14. Add Font Awesome Icons to all of our Buttons Complete
+15. Responsively Style Radio Buttons Complete
+16. Responsively Style Checkboxes Complete
+17. Style Text Inputs as Form Controls Complete
+18. Line up Form Elements Responsively with Bootstrap Complete
+19. Create a Bootstrap Headline Complete
+20. House our page within a Bootstrap Container Fluid Div Complete
+21. Create a Bootstrap Row Complete
+22. Split your Bootstrap Row Complete
+23. Create Bootstrap Wells Complete
+24. Add Elements within your Bootstrap Wells Complete
+25. Apply the Default Bootstrap Button Style Complete
+26. Create a Class to Target with jQuery Selectors Complete
+27. Add ID Attributes to Bootstrap Elements Complete
+28. Label Bootstrap Wells Complete
+29. Give Each Element a Unique ID Complete
+30. Label Bootstrap Buttons Complete
+31. Use Comments to Clarify Code
 
 ## jQuery
 
