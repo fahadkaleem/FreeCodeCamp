@@ -12,7 +12,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 7. [Uncomment HTML Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/007%20-%20Delete%20HTML%20Elements.html)
 8. [Comment out HTML Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/008%20-%20Change%20the%20Color%20of%20Text.html)
 9. [Fill in the Blank with Placeholder Text Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/009%20-%20Use%20CSS%20Selectors%20to%20Style%20Elements.html)
-10. Delete HTML Elements Complete
+10. [Delete HTML Elements Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/010%20-%20Use%20a%20CSS%20Class%20to%20Style%20an%20Element.html)
 11. Change the Color of Text Complete
 12. Use CSS Selectors to Style Elements Complete
 13. Use a CSS Class to Style an Element Complete
