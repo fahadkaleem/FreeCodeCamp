@@ -6,7 +6,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 1. [Say Hello to HTML Elements](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/001%20-%20Say%20Hello%20to%20HTML%20Elements.html)
 2. [Headline with the h2 Elements](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/002%20-%20Headline%20with%20the%20h2%20Element.html)
 3. [Inform with the Paragrapgh Element](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/003%20-%20Inform%20with%20the%20Paragraph%20Element.html)
-4. Say Hello to HTML Elements Complete
+4. [Say Hello to HTML Elements Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/004%20-%20Uncomment%20HTML.html)
 5. Headline with the h2 Element Complete
 6. Inform with the Paragraph Element Complete
 7. Uncomment HTML Complete
