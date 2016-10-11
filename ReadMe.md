@@ -8,7 +8,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 3. [Inform with the Paragrapgh Element](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/003%20-%20Inform%20with%20the%20Paragraph%20Element.html)
 4. [Say Hello to HTML Elements Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/004%20-%20Uncomment%20HTML.html)
 5. [Headline with the h2 Element Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/005%20-%20Comment%20out%20HTML.html)
-6. Inform with the Paragraph Element Complete
+6. [Inform with the Paragraph Element Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/006%20-%20Fill%20in%20the%20Blank%20with%20Placeholder%20Text.html)
 7. Uncomment HTML Complete
 8. Comment out HTML Complete
 9. Fill in the Blank with Placeholder Text Complete
