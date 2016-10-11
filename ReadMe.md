@@ -15,7 +15,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 10. [Delete HTML Elements Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/010%20-%20Use%20a%20CSS%20Class%20to%20Style%20an%20Element.html)
 11. [Change the Color of Text Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/011%20-%20Style%20Multiple%20Elements%20with%20a%20CSS%20Class.html)
 12. [Use CSS Selectors to Style Elements Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/012%20-%20Change%20the%20Font%20Size%20of%20an%20Element.html)
-13. Use a CSS Class to Style an Element Complete
+13. [Use a CSS Class to Style an Element Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/013%20-%20Set%20the%20Font%20Family%20of%20an%20Element.html)
 14. Style Multiple Elements with a CSS Class Complete
 15. Change the Font Size of an Element Complete
 16. Set the Font Family of an Element Complete
