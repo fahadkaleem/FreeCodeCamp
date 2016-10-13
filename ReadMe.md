@@ -20,19 +20,19 @@ This repository will have solutions for all the FreeCodeCamp questions
 15. [Change the Font Size of an Element Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/015%20-%20Specify%20How%20Fonts%20Should%20Degrade.html)
 16. [Set the Font Family of an Element Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/016%20-%20Add%20Images%20to%20your%20Website.html)
 17. [Import a Google Font Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/017%20-%20Size%20your%20Images.html)
-18. Specify How Fonts Should Degrade Complete
-19. Add Images to your Website Complete
-20. Size your Images Complete
-21. Add Borders Around your Elements Complete
-22. Add Rounded Corners with a Border Radius Complete
-23. Make Circular Images with a Border Radius Complete
-24. Link to External Pages with Anchor Elements Complete
-25. Nest an Anchor Element within a Paragraph Complete
-26. Make Dead Links using the Hash Symbol Complete
-27. Turn an Image into a Link Complete
-28. Create a Bulleted Unordered List Complete
-29. Create an Ordered List Complete
-30. Create a Text Field Complete
+18. [Specify How Fonts Should Degrade Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/018%20-%20Add%20Borders%20Around%20your%20Elements.html)
+19. [Add Images to your Website Complete]()
+20. [Size your Images Complete]()
+21. [Add Borders Around your Elements Complete]()
+22. [Add Rounded Corners with a Border Radius Complete]()
+23. [Make Circular Images with a Border Radius Complete]()
+24. [Link to External Pages with Anchor Elements Complete]()
+25. [Nest an Anchor Element within a Paragraph Complete]()
+26. [Make Dead Links using the Hash Symbol Complete]()
+27. [Turn an Image into a Link Complete]()
+28. [Create a Bulleted Unordered List Complete]()
+29. [Create an Ordered List Complete]()
+30. [Create a Text Field Complete]()
 31. Add Placeholder Text to a Text Field Complete
 32. Create a Form Element Complete
 33. Add a Submit Button to a Form Complete
