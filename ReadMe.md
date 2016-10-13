@@ -29,7 +29,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 24. [Link to External Pages with Anchor Elements Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/024%20-%20Turn%20an%20Image%20into%20a%20Link.html)
 25. [Nest an Anchor Element within a Paragraph Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/025%20-%20Create%20a%20Bulleted%20Unordered%20List.html)
 26. [Make Dead Links using the Hash Symbol Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/026%20-%20Create%20an%20Ordered%20List.html)
-27. [Turn an Image into a Link Complete]()
+27. [Turn an Image into a Link Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/027%20-%20Create%20a%20Text%20Field.html)
 28. [Create a Bulleted Unordered List Complete]()
 29. [Create an Ordered List Complete]()
 30. [Create a Text Field Complete]()
