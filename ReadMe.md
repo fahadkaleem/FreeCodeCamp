@@ -19,7 +19,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 14. [Style Multiple Elements with a CSS Class Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/014%20-%20Import%20a%20Google%20Font.html)
 15. [Change the Font Size of an Element Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/015%20-%20Specify%20How%20Fonts%20Should%20Degrade.html)
 16. [Set the Font Family of an Element Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/016%20-%20Add%20Images%20to%20your%20Website.html)
-17. Import a Google Font Complete
+17. [Import a Google Font Complete](https://github.com/fahadkaleem/FreeCodeCamp/blob/master/Front%20End%20Development%20Certification/001%20-%20HTML5%20and%20CSS/017%20-%20Size%20your%20Images.html)
 18. Specify How Fonts Should Degrade Complete
 19. Add Images to your Website Complete
 20. Size your Images Complete
