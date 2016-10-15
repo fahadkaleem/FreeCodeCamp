@@ -36,7 +36,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 31. [Add Placeholder Text to a Text Field Complete]()
 32. [Create a Form Element Complete]()
 33. [Add a Submit Button to a Form Complete]()
-34. Use HTML5 to Require a Field Complete
+34. [Use HTML5 to Require a Field Complete]()
 35. Create a Set of Radio Buttons Complete
 36. Create a Set of Checkboxes Complete
 37. Check Radio Buttons and Checkboxes by Default Complete
