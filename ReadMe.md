@@ -39,7 +39,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 34. [Use HTML5 to Require a Field Complete]()
 35. [Create a Set of Radio Buttons Complete]()
 36. [Create a Set of Checkboxes Complete]()
-37. Check Radio Buttons and Checkboxes by Default Complete
+37. [Check Radio Buttons and Checkboxes by Default Complete]()
 38. Nest Many Elements within a Single Div Element Complete
 39. Give a Background Color to a Div Element Complete
 40. Set the ID of an Element Complete
