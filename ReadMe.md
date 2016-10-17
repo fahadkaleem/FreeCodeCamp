@@ -62,7 +62,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 57. Use Hex Code to Mix Colors Complete
 58. Use Abbreviated Hex Code Complete
 59. Use RGB values to Color Elements Complete
-60. Use RGB to Mix Colors
+60. [Use RGB to Mix Colors]()
 
 ## Responsive Design with Bootstrap
 1. Use Responsive Design with Bootstrap Fluid Containers Complete
