@@ -44,7 +44,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 39. [Give a Background Color to a Div Element Complete]()
 40. [Set the ID of an Element Complete]()
 41. [Use an ID Attribute to Style an Element Complete]()
-42. Adjusting the Padding of an Element Complete
+42. [Adjusting the Padding of an Element Complete]()
 43. Adjust the Margin of an Element Complete
 44. Add a Negative Margin to an Element Complete
 45. Add Different Padding to Each Side of an Element Complete
