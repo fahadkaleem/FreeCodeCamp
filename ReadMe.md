@@ -60,7 +60,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 55. Override All Other Styles by using Important Complete
 56. Use Hex Code for Specific Colors Complete
 57. Use Hex Code to Mix Colors Complete
-58. Use Abbreviated Hex Code Complete
+58. [Use Abbreviated Hex Code Complete]()
 59. [Use RGB values to Color Elements Complete]()
 60. [Use RGB to Mix Colors]()
 
