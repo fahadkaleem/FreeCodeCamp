@@ -95,7 +95,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 28. Label Bootstrap Wells Complete
 29. Give Each Element a Unique ID Complete
 30. Label Bootstrap Buttons Complete
-31. Use Comments to Clarify Code
+31. [Use Comments to Clarify Code]()
 
 ## jQuery
 1. Learn how Script Tags and Document Ready Work Complete
