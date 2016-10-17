@@ -48,7 +48,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 43. [Adjust the Margin of an Element Complete]()
 44. [Add a Negative Margin to an Element Complete]()
 45. [Add Different Padding to Each Side of an Element Complete]()
-46. Add Different Margins to Each Side of an Element Complete
+46. [Add Different Margins to Each Side of an Element Complete]()
 47. Use Clockwise Notation to Specify the Padding of an Element Complete
 48. Use Clockwise Notation to Specify the Margin of an Element Complete
 49. Style the HTML Body Element Complete
