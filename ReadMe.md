@@ -118,7 +118,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 18. Use jQuery to Modify the Entire Page
 
 ## Basic Front End Development Projects
-1. Build a Tribute Page Complete  
+1. [Build a Tribute Page Complete]()  
 2. Build a Personal Portfolio Webpage Incomplete (In Progress) 
 
 
