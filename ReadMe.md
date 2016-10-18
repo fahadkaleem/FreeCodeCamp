@@ -77,7 +77,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 10. [Ditch Custom CSS for Bootstrap Complete]()
 11. [Use Spans for Inline Elements Complete]()
 12. [Create a Custom Heading Complete]()
-13. Add Font Awesome Icons to our Buttons Complete
+13. [Add Font Awesome Icons to our Buttons Complete]()
 14. Add Font Awesome Icons to all of our Buttons Complete
 15. Responsively Style Radio Buttons Complete
 16. Responsively Style Checkboxes Complete
