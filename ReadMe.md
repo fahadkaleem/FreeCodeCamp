@@ -92,7 +92,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 25. Apply the Default Bootstrap Button Style Complete
 26. Create a Class to Target with jQuery Selectors Complete
 27. Add ID Attributes to Bootstrap Elements Complete
-28. Label Bootstrap Wells Complete
+28. [Label Bootstrap Wells Complete]()
 29. [Give Each Element a Unique ID Complete]()
 30. [Label Bootstrap Buttons Complete]()
 31. [Use Comments to Clarify Code]()
