@@ -57,7 +57,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 52. [Override Styles in Subsequent CSS Complete]()
 53. [Override Class Declarations by Styling ID Attributes Complete]()
 54. [Override Class Declarations with Inline Styles Complete]()
-55. Override All Other Styles by using Important Complete
+55. [Override All Other Styles by using Important Complete]()
 56. Use Hex Code for Specific Colors Complete
 57. [Use Hex Code to Mix Colors Complete]()
 58. [Use Abbreviated Hex Code Complete]()
