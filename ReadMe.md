@@ -79,7 +79,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 12. [Create a Custom Heading Complete]()
 13. [Add Font Awesome Icons to our Buttons Complete]()
 14. [Add Font Awesome Icons to all of our Buttons Complete]()
-15. Responsively Style Radio Buttons Complete
+15. [Responsively Style Radio Buttons Complete]()
 16. Responsively Style Checkboxes Complete
 17. Style Text Inputs as Form Controls Complete
 18. Line up Form Elements Responsively with Bootstrap Complete
