@@ -65,7 +65,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 60. [Use RGB to Mix Colors]()
 
 ## Responsive Design with Bootstrap
-1. Use Responsive Design with Bootstrap Fluid Containers Complete
+1. [Use Responsive Design with Bootstrap Fluid Containers Complete]()
 2. Make Images Mobile Responsive Complete
 3. Center Text with Bootstrap Complete
 4. Create a Bootstrap Button Complete
