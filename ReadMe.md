@@ -115,7 +115,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 15. Target the Children of an Element Using jQuery Complete
 16. Target a Specific Child of an Element Using jQuery Complete
 17. Target Even Numbered Elements Using jQuery Complete
-18. Use jQuery to Modify the Entire Page
+18. [Use jQuery to Modify the Entire Page]()
 
 ## Basic Front End Development Projects
 1. [Build a Tribute Page Complete]()  
