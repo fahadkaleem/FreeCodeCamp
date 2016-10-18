@@ -51,7 +51,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 46. [Add Different Margins to Each Side of an Element Complete]()
 47. [Use Clockwise Notation to Specify the Padding of an Element Complete]()
 48. [Use Clockwise Notation to Specify the Margin of an Element Complete]()
-49. Style the HTML Body Element Complete
+49. [Style the HTML Body Element Complete]()
 50. Inherit Styles from the Body Element Complete
 51. Prioritize One Style Over Another Complete
 52. Override Styles in Subsequent CSS Complete
