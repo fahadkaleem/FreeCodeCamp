@@ -74,7 +74,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 7. [Call out Optional Actions with Button Info Complete]()
 8. [Warn your Users of a Dangerous Action Complete]()
 9. [Use the Bootstrap Grid to Put Elements Side By Side Complete]()
-10. Ditch Custom CSS for Bootstrap Complete
+10. [Ditch Custom CSS for Bootstrap Complete]()
 11. Use Spans for Inline Elements Complete
 12. Create a Custom Heading Complete
 13. Add Font Awesome Icons to our Buttons Complete
