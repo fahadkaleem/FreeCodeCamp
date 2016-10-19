@@ -113,7 +113,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 13. Clone an Element Using jQuery Complete
 14. Target the Parent of an Element Using jQuery Complete
 15. Target the Children of an Element Using jQuery Complete
-16. Target a Specific Child of an Element Using jQuery Complete
+16. [Target a Specific Child of an Element Using jQuery Complete]()
 17. [Target Even Numbered Elements Using jQuery Complete]()
 18. [Use jQuery to Modify the Entire Page]()
 
