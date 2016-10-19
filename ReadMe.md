@@ -81,7 +81,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 14. [Add Font Awesome Icons to all of our Buttons Complete]()
 15. [Responsively Style Radio Buttons Complete]()
 16. [Responsively Style Checkboxes Complete]()
-17. Style Text Inputs as Form Controls Complete
+17. [Style Text Inputs as Form Controls Complete]()
 18. Line up Form Elements Responsively with Bootstrap Complete
 19. Create a Bootstrap Headline Complete
 20. House our page within a Bootstrap Container Fluid Div Complete
