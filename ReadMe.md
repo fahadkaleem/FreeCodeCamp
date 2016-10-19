@@ -88,7 +88,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 21. [Create a Bootstrap Row Complete]()
 22. [Split your Bootstrap Row Complete]()
 23. [Create Bootstrap Wells Complete]()
-24. Add Elements within your Bootstrap Wells Complete
+24. [Add Elements within your Bootstrap Wells Complete]()
 25. Apply the Default Bootstrap Button Style Complete
 26. [Create a Class to Target with jQuery Selectors Complete]()
 27. [Add ID Attributes to Bootstrap Elements Complete]()
