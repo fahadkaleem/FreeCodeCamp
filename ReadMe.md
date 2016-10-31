@@ -100,7 +100,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 ## jQuery
 1. [Learn how Script Tags and Document Ready Work Complete]()
 2. [Target HTML Elements with Selectors Using jQuery Complete]()
-3. Target Elements by Class Using jQuery Complete
+3. [Target Elements by Class Using jQuery Complete]()
 4. Target Elements by ID Using jQuery Complete
 5. Delete your jQuery Functions Complete
 6. Target the same element with multiple jQuery Selectors Complete
