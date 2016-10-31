@@ -98,7 +98,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 31. [Use Comments to Clarify Code]()
 
 ## jQuery
-1. Learn how Script Tags and Document Ready Work Complete
+1. [Learn how Script Tags and Document Ready Work Complete]()
 2. Target HTML Elements with Selectors Using jQuery Complete
 3. Target Elements by Class Using jQuery Complete
 4. Target Elements by ID Using jQuery Complete
