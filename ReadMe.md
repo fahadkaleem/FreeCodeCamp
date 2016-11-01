@@ -105,7 +105,7 @@ This repository will have solutions for all the FreeCodeCamp questions
 5. [Delete your jQuery Functions Complete]()
 6. [Target the same element with multiple jQuery Selectors Complete]()
 7. [Remove Classes from an element with jQuery Complete]()
-8. Change the CSS of an Element Using jQuery Complete
+8. [Change the CSS of an Element Using jQuery Complete]()
 9. Disable an Element Using jQuery Complete
 10. Change Text Inside an Element Using jQuery Complete
 11. Remove an Element Using jQuery Complete
